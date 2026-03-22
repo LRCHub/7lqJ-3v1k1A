@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "潮騒の詩",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2026-03-22T06:16:33.507714Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "潮騒の詩",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_潮騒の詩_GRe4N_BOYZ.txt"
+    }
+  ]
+}
